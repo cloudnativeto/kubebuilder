@@ -30,6 +30,6 @@ jobs:
             dep ensure
         fi
     - name: lint
-      run: cd docs/book/ & ./litgo.sh
+      run: bash docs/book/litgo.sh
     - name: Build
-      run: cd docs/book & ./install-and-build.sh
+      run: bash docs/book/install-and-build.sh
