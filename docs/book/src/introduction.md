@@ -1,4 +1,4 @@
-**注意：** 一部分读者可能会直接去 [Quick
+**注意：** 着急的读者可以直接跳到这里 [Quick
 Start](quick-start.md)。
 
 **若在使用 Kubebuilder v1? 请查看 [legacy
@@ -20,9 +20,9 @@ Kubernetes 的使用者将通过学习其 APIs 是如何设计和实现的，从
 - 基于 Level-Based 与 Edge-Base APIs
 - Resources 与 Subresources
 
-#### Kubernetes API extension developers
+#### Kubernetes API 开发者
 
-API extension developers 将学习实现标准的 Kubernetes API 原理和概念，以及用于快速执行的简单工具和库。这本书涵盖了开发人员通常会遇到的陷阱和误解。
+API 扩展开发者将学习实现标准的 Kubernetes API 原理和概念，以及用于快速执行的简单工具和库。这本书涵盖了开发人员通常会遇到的陷阱和误区。
 
 包括：
 
@@ -38,7 +38,7 @@ API extension developers 将学习实现标准的 Kubernetes API 原理和概念
 
 如果您想为本书或代码做出贡献，请先阅读我们的[贡献](https://github.com/kubernetes-sigs/kubebuilder/blob/master/CONTRIBUTING.md)准则。
 
-## 资源信息
+## 资源
 
 * 代码仓库：[sigs.k8s.io/kubebuilder](https://sigs.k8s.io/kubebuilder)
 
