@@ -1,12 +1,12 @@
 # Summary
 
-[Introduction](./introduction.md)
+[引言](./introduction.md)
 
-[Quick Start](./quick-start.md)
+[快速入门](./quick-start.md)
 
 ---
 
-- [Tutorial: Building CronJob](cronjob-tutorial/cronjob-tutorial.md)
+- [教程: Building CronJob](cronjob-tutorial/cronjob-tutorial.md)
 
   - [What's in a basic project?](./cronjob-tutorial/basic-project.md)
   - [Every journey needs a start, every program a main](./cronjob-tutorial/empty-main.md)
@@ -31,7 +31,7 @@
 
   - [Epilogue](./cronjob-tutorial/epilogue.md)
 
-- [Tutorial: Multi-Version API](./multiversion-tutorial/tutorial.md)
+- [教程: Multi-Version API](./multiversion-tutorial/tutorial.md)
 
   - [Changing things up](./multiversion-tutorial/api-changes.md)
   - [Hubs, spokes, and other wheel metaphors](./multiversion-tutorial/conversion-concepts.md)
@@ -53,7 +53,7 @@
 
 ---
 
-- [Reference](./reference/reference.md)
+- [参考](./reference/reference.md)
 
   - [Generating CRDs](./reference/generating-crd.md)
   - [Using Finalizers](./reference/using-finalizers.md)
@@ -81,4 +81,4 @@
 
 ---
 
-[Appendix: The TODO Landing Page](./TODO.md)
+[附录: The TODO Landing Page](./TODO.md)

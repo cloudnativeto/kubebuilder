@@ -1,54 +1,48 @@
-**Note:** Impatient readers may head straight to [Quick
-Start](quick-start.md).
+**注意：** 一部分读者可能会直接去 [Quick
+Start](quick-start.md)。
 
-**Using Kubebuilder v1? Check the [legacy
+**若在使用 Kubebuilder v1? 请查看 [legacy
 documentation](https://book-v1.book.kubebuilder.io)**
 
-## Who is this for
+## 文档适合哪些人看
 
-#### Users of Kubernetes
+#### Kubernetes 的使用者
 
-Users of Kubernetes will develop a deeper understanding of Kubernetes through learning
-the fundamental concepts behind how APIs are designed and implemented.  This book
-will teach readers how to develop their own Kubernetes APIs and the
-principles from which the core Kubernetes APIs are designed.
+Kubernetes 的使用者将通过学习其 APIs 是如何设计和实现的，从而更深入地了解 Kubernetes 。这本书将教读者如何开发自己的 Kubernetes APIs 以及如何设计核心 Kubernetes API 的原理。
 
-Including:
+包括：
 
-- The structure of Kubernetes APIs and Resources
-- API versioning semantics
-- Self-healing
-- Garbage Collection and Finalizers
-- Declarative vs Imperative APIs
-- Level-Based vs Edge-Base APIs
-- Resources vs Subresources
+- Kubernetes APIs 和 Resources 的构造
+- APIs 版本控制语义
+- 故障自愈
+- 垃圾回收和 Finalizers
+- 声明式与命令式 APIs
+- 基于 Level-Based 与 Edge-Base APIs
+- Resources 与 Subresources
 
 #### Kubernetes API extension developers
 
-API extension developers will learn the principals and concepts behind implementing canonical
-Kubernetes APIs, as well as simple tools and libraries for rapid execution.  This
-book covers pitfalls and misconceptions that extension developers commonly encounter.
+API extension developers 将学习实施规范的 Kubernetes API 原理和概念，以及用于快速执行的简单工具和库。这本书涵盖了开发人员通常会遇到的陷阱和误解。
 
-Including:
+包括：
 
-- How to batch multiple events into a single reconciliation call
-- How to configure periodic reconciliation
-- *Forthcoming*
-    - When to use the lister cache vs live lookups
-    - Garbage Collection vs Finalizers
-    - How to use Declarative vs Webhook Validation
-    - How to implement API versioning
+- 如何用一个 reconciliation 方法处理多个 events
+- 如何配置定期执行 reconciliation 方法
+- *即将到来的*
+    - 何时使用 lister cache 与 live lookups
+    - 垃圾回收与 Finalizers
+    - 如何使用 Declarative 与 Webhook Validation
+    - 如何实现 API 版本控制
 
-## Contribution
+## 贡献
 
-If you like to contribute to either this book or the code, please be so kind
-to read our [Contribution](https://github.com/kubernetes-sigs/kubebuilder/blob/master/CONTRIBUTING.md) guidelines first.
+如果您想为本书或代码做出贡献，请先阅读我们的[Contribution](https://github.com/kubernetes-sigs/kubebuilder/blob/master/CONTRIBUTING.md)准则。
 
-## Resources
+## 资源信息
 
-* Repository: [sigs.k8s.io/kubebuilder](https://sigs.k8s.io/kubebuilder)
+* 代码仓库：[sigs.k8s.io/kubebuilder](https://sigs.k8s.io/kubebuilder)
 
-* Slack channel: [#kubebuilder](http://slack.k8s.io/#kubebuilder)
+* Slack 沟通群：[#kubebuilder](http://slack.k8s.io/#kubebuilder)
 
-* Google Group:
+* 谷歌沟通群：
   [kubebuilder@googlegroups.com](https://groups.google.com/forum/#!forum/kubebuilder)
