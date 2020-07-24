@@ -22,7 +22,7 @@ Kubernetes 的使用者将通过学习其 APIs 是如何设计和实现的，从
 
 #### Kubernetes API extension developers
 
-API extension developers 将学习实施规范的 Kubernetes API 原理和概念，以及用于快速执行的简单工具和库。这本书涵盖了开发人员通常会遇到的陷阱和误解。
+API extension developers 将学习实现标准的 Kubernetes API 原理和概念，以及用于快速执行的简单工具和库。这本书涵盖了开发人员通常会遇到的陷阱和误解。
 
 包括：
 
@@ -36,7 +36,7 @@ API extension developers 将学习实施规范的 Kubernetes API 原理和概念
 
 ## 贡献
 
-如果您想为本书或代码做出贡献，请先阅读我们的[Contribution](https://github.com/kubernetes-sigs/kubebuilder/blob/master/CONTRIBUTING.md)准则。
+如果您想为本书或代码做出贡献，请先阅读我们的[贡献](https://github.com/kubernetes-sigs/kubebuilder/blob/master/CONTRIBUTING.md)准则。
 
 ## 资源信息
 
