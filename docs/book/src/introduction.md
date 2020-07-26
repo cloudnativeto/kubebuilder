@@ -36,7 +36,7 @@ API 扩展开发者将学习实现标准的 Kubernetes API 原理和概念，以
 
 ## 贡献
 
-如果您想为本书或代码做出贡献，请先阅读我们的[贡献](https://github.com/kubernetes-sigs/kubebuilder/blob/master/CONTRIBUTING.md)准则。
+如果您想为本书或代码做出贡献，请先阅读我们的[贡献](https://github.com/cloudnativeto/kubebuilder/tree/zh/docs/book)准则。
 
 ## 资源
 
@@ -45,4 +45,6 @@ API 扩展开发者将学习实现标准的 Kubernetes API 原理和概念，以
 * Slack 沟通群：[#kubebuilder](http://slack.k8s.io/#kubebuilder)
 
 * 谷歌沟通群：
-  [kubebuilder@googlegroups.com](https://groups.google.com/forum/#!forum/kubebuilder)
+  [kubebuilder@googlegroups.com](https://groups.google.com/forum/#!forum/kubebuilder)  
+* 云原生社区：
+  [https://cloudnative.to](https://cloudnative.tor)  

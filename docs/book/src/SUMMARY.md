@@ -70,8 +70,8 @@
       - [Object/DeepCopy](./reference/markers/object.md)
       - [RBAC](./reference/markers/rbac.md)
 
-  - [controller-gen CLI](./reference/controller-gen.md)
-  - [completion](./reference/completion.md)
+  - [controller-gen 命令行界面](./reference/controller-gen.md)
+  - [shell 自动补全](./reference/completion.md)
   - [制品包](./reference/artifacts.md)
   - [编写 controller 测试](./reference/writing-tests.md)
 
