@@ -34,7 +34,7 @@
 
 - 账号：微信账号和 GitHub 账号。微信用于沟通协作，Github 用于认领任务及提交翻译。
 
-- 申请加入：请添加微信号 `majinghe11`，验证信息填 `Kubebuilder 翻译加群`。
+- 申请加入：请添加微信号 `majinghe11`，验证信息请填写 `Kubebuilder 翻译加群`。
 
 - 登记个人信息：登记[志愿者个人信息](https://docs.google.com/spreadsheets/d/1fHwilU5NttQgCg-o8p2aK1GOWxVZsX2GBzTwm0YrwgE/edit?usp=sharing) ，之后 maintainer 会将您添加到 cloudnativeto 的 [GitHub 组织](https://github.com/cloudnativeto) 和翻译`微信群`，至此，您即可正式参与翻译。
 
